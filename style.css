@@ -1,3 +1,15 @@
-img{
-  height: 60px;
+body{
+  background-color: rgb(154, 238, 238);
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding: 2%;
+}
+.tittle{
+  font-size: 50px;
+}
+h2{
+  color: salmon;
 }
