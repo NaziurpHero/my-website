@@ -14,10 +14,13 @@ h2{
   color: salmon;
 }
 .top-banner{
-  background-image: url("images/background.png");
+  
   background-repeat: no-repeat;
 
 }
 section{
   height: 500px;
+}
+body{
+  background-image: url("images/background.png");
 }
