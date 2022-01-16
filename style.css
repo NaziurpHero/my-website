@@ -24,3 +24,6 @@ section{
 body{
   background-image: url("images/background.png");
 }
+#name-heighlight{
+  color: tomato;
+}
